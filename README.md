@@ -2,7 +2,7 @@
 An interactive Java-based robot simulation GUI. Features include multiple robot types, animated movement, collision handling, and user controls to add, remove, and manipulate arena objects.
 ## Overview
 
-This is a Java-based robot simulation with a graphical user interface, created for an OOP coursework project. The simulation takes place in an arena where different types of robots and items move around and interact with each other. The GUI lets users control the simulation, add or remove robots and items, and watch how everything behaves in real time.
+This is a Java-based robot simulation with a graphical user interface. The simulation takes place in an arena where different types of robots and items move around and interact with each other. The GUI lets users control the simulation, add or remove robots and items, and watch how everything behaves in real time.
 
 ---
 
