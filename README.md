@@ -1,12 +1,12 @@
 # Bot-Battle-Arena
 An interactive Java-based robot simulation GUI. Features include multiple robot types, animated movement, collision handling, and user controls to add, remove, and manipulate arena objects.
-## 2. Overview
+## Overview
 
 This is a Java-based robot simulation with a graphical user interface, created for an OOP coursework project. The simulation takes place in an arena where different types of robots and items move around and interact with each other. The GUI lets users control the simulation, add or remove robots and items, and watch how everything behaves in real time.
 
 ---
 
-## 3. How It Works
+## How It Works
 
 The program opens in a window with menu options along the top and bottom. When the simulation starts, it automatically loads a default arena that includes a few robots, barriers, and items placed randomly.
 
@@ -16,7 +16,7 @@ Users can interact with the arena by adding new robots or items through the menu
 
 ---
 
-## 4. Robots and Items
+## Robots and Items
 ![ezgif-7616ec68156f49](https://github.com/user-attachments/assets/a048aa0f-8b1f-46d4-a16a-7f0173124fa5)
 
 ### Robot Types
@@ -44,7 +44,7 @@ All robots have a health value, which is displayed on their body. When their hea
   Boosts a robot's damage. AttackerRobots get stronger, and non-hostile robots gain the ability to deal damage.
 
 
-## 5. User Interaction
+## User Interaction
 
 ![add del](https://github.com/user-attachments/assets/5d102404-c1d1-47f1-8a0a-2af98c93adeb)
 
